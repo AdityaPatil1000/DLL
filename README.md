@@ -16,3 +16,8 @@ JNI........)
  //output:
  
  addition is :100
+ 
+ 
+Write a program to create a Dynamic Link Library for any
+mathematical operation and write an application program
+to test it. (Java Native Interface / Use VB or VC++)
